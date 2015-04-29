@@ -7,7 +7,7 @@ bbver: 4.6
 applog: rholog.txt
 iphone:
   configuration: "Release"
-  sdk: "iphoneos8.2"
+  sdk: "iphonesimulator8.1"
   codesignidentity: "iPhone Developer"
   entitlements: ./production/Entitlements.plist
   BundleIdentifier: "com.rhomobile.vpnautocommonspec"
