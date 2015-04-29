@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
  <key>application-identifier</key>
- <string>M9VP49Q7N6.com.rhomobile.RhoConnectClientSpecjs</string>
+ <string>M9VP49Q7N6.com.rhomobile.vpnautocommonspec</string>
  <key>get-task-allow</key>
  <true/>
  <key>keychain-access-groups</key>
  <array>
- <string>M9VP49Q7N6.com.rhomobile.RhoConnectClientSpecjs</string>
+ <string>M9VP49Q7N6.com.rhomobile.vpnautocommonspec</string>
  </array>
 </dict>
 </plist>
