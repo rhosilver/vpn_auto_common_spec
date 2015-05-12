@@ -1,7 +1,7 @@
 describe("RMS 4.0 File JS API", function () {
 
 	var userFolder = Rho.Application.userFolder;
-	var publicFolder = Rho.RhoFile.join(Rho.Application.publicFolder);
+	var publicFolder = Rho.Application.publicFolder;
     var temporaryDirectory = Rho.RhoFile.join(Rho.Application.userFolder, "temporaryDirectory");
 
 	var fileName = "rhoconfig.txt";
@@ -1141,7 +1141,7 @@ describe("RMS 4.0 File JS API", function () {
 
 
 
-describe("RMS 4.1 : [SPB] Fix File reading errors in Ruby", function () {
+xdescribe("RMS 4.1 : [SPB] Fix File reading errors in Ruby", function () {
 		var description;
 		var expectString = "Could not open file: '/programFiles/Test/rholog.txt'"
 		var expectString1 = "Could not read file: '/programFiles/Test/rholog.txt'"
